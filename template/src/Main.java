@@ -22,6 +22,7 @@ public class Main extends PApplet {
     @Override
     public void draw() {
         // Draw a moving circle
+        background(255);
         fill(255, 0, 0);
         ellipse(mouseX, mouseY, 50, 50);
     }
