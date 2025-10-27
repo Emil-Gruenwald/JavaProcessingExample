@@ -2,6 +2,7 @@
 
 ## How to use
 This project template allows you to access Processing's methods while running from a java file.
+
 [Processing Documentation](https://processing.org/reference)
 
 ## How to compile and run
